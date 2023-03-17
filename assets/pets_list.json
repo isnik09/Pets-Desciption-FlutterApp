@@ -1,0 +1,74 @@
+{
+  "pets": [
+    {
+      "image_url": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "title": "Cat",
+      "description": "The cat (Felis catus) is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family. Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.",
+      "content_url": "https://en.wikipedia.org/wiki/Cat",
+      "date_added": "2018-06-02T03:27:38.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1596982061417-3a686a450552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80",
+      "title": "Rabbit",
+      "description": "Rabbits, also known as bunnies or bunny rabbits, are small mammals in the family Leporidae (which also contains the hares) of the order Lagomorpha (which also contains the pikas). Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds[1] of domestic rabbit. Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail. The European rabbit, which has been introduced on every continent except Antarctica, is familiar throughout the world as a wild prey animal and as a domesticated form of livestock and pet. With its widespread effect on ecologies and cultures, the rabbit is, in many areas of the world, a part of daily life—as food, clothing, a companion, and a source of artistic inspiration. ",
+      "content_url": "https://en.wikipedia.org/wiki/Rabbit",
+      "date_added": "2018-06-06T08:36:16.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1615087240969-eeff2fa558f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "title": "Ferret",
+      "description": "The ferret (Mustela furo) is a small, domesticated species belonging to the family Mustelidae. The ferret is most likely a domesticated form of the wild European polecat (Mustela putorius), evidenced by their interfertility. Other mustelids include the stoat, badger and mink. Physically, ferrets resemble other mustelids because of their long, slender bodies. Including their tail, the average length of a ferret is about 50 cm (20 in); they weigh between 0.7 and 2.0 kg (1.5 and 4.4 lb); and their fur can be black, brown, white, or a mixture of those colours. In this sexually dimorphic species, males are considerably larger than females. ",
+      "content_url": "https://en.wikipedia.org/wiki/Ferret",
+      "date_added": "2018-06-23T19:14:04.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Goldfish",
+      "description": "The Goldfish (Carassius auratus) is a freshwater fish in the family Cyprinidae of order Cypriniformes. It is commonly kept as a pet in indoor aquariums, and is one of the most popular aquarium fish. Goldfish released into the wild have become an invasive pest in parts of North America",
+      "content_url": "https://en.wikipedia.org/wiki/Goldfish",
+      "date_added": "2018-07-12T15:49:27.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+      "title": "Dog",
+      "description": "The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from the extinct Pleistocene wolf,and the modern wolf is the dog's nearest living relative. Dogs were the first species to be domesticated by hunter-gatherers over 15,000 years ago before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids",
+      "content_url": "https://en.wikipedia.org/wiki/Dog",
+      "date_added": "2018-07-21T11:33:29.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=850&q=80",
+      "title": "Parrot",
+      "description": "Parrots, also known as psittacines are birds of the roughly 398 species[3] in 92 genera comprising the order Psittaciformes, found mostly in tropical and subtropical regions. The order is subdivided into three superfamilies: the Psittacoidea ('true' parrots), the Cacatuoidea (cockatoos), and the Strigopoidea (New Zealand parrots). One-third of all parrot species are threatened by extinction, with higher aggregate extinction risk (IUCN Red List Index) than any other comparable bird group.[4] Parrots have a generally pantropical distribution with several species inhabiting temperate regions in the Southern Hemisphere, as well. The greatest diversity of parrots is in South America[5] and Australasia. ",
+      "content_url": "https://en.wikipedia.org/wiki/Parrot",
+      "date_added": "2018-07-26T04:20:16.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1641502046286-3cb6b308c60b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "title": "Raccoon",
+      "description": "The raccoon sometimes called the common raccoon to distinguish it from other species, is a mammal native to North America. It is the largest of the procyonid family, having a body length of 40 to 70 cm (16 to 28 in), and a body weight of 5 to 26 kg (11 to 57 lb). Its grayish coat mostly consists of dense underfur, which insulates it against cold weather. Three of the raccoon's most distinctive features are its extremely dexterous front paws, its facial mask, and its ringed tail, which are themes in the mythologies of the indigenous peoples of the Americas relating to the animal. The raccoon is noted for its intelligence, as studies show that it is able to remember the solution to tasks for at least three years. It is usually nocturnal and omnivorous, eating about 40% invertebrates, 33% plants, and 27% vertebrates. ",
+      "content_url": "https://en.wikipedia.oGuinea Pigrg/wiki/Raccoon",
+      "date_added": "2018-07-29T20:58:39.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1599557180413-b3904af41411?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Hedgehog",
+      "description": "A hedgehog is a spiny mammal of the subfamily Erinaceinae, in the eulipotyphlan family Erinaceidae. There are seventeen species of hedgehog in five genera found throughout parts of Europe, Asia, and Africa, and in New Zealand by introduction. There are no hedgehogs native to Australia and no living species native to the Americas. However, the extinct genus Amphechinus was once present in North America. ",
+      "content_url": "https://en.wikipedia.org/wiki/Hedgehog",
+      "date_added": "2018-07-30T18:10:57.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1514820045935-b6e2c20d1da6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fEhvcnNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "title": "Horse",
+      "description": "The horse (Equus ferus caballus)[2][3] is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus. The horse has evolved over the past 45 to 55 million years from a small multi-toed creature, Eohippus, into the large, single-toed animal of today. Humans began domesticating horses around 4000 BCE, and their domestication is believed to have been widespread by 3000 BCE. Horses in the subspecies caballus are domesticated, although some domesticated populations live in the wild as feral horses. These feral populations are not true wild horses, as this term is used to describe horses that have never been domesticated. There is an extensive, specialized vocabulary used to describe equine-related concepts, covering everything from anatomy to life stages, size, colors, markings, breeds, locomotion, and behavior. ",
+      "content_url": "https://en.wikipedia.org/wiki/Horse",
+      "date_added": "2018-08-02T05:04:03.027Z"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1612267168669-679c961c5b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Guinea Pig",
+      "description": "The guinea pig or domestic guinea pig (Cavia porcellus), also known as the cavy or domestic cavy, is a species of rodent belonging to the genus Cavia in the family Caviidae. Breeders tend to use the word cavy to describe the animal, while in scientific and laboratory contexts, it is far more commonly referred to by the common name guinea pig. Despite their common name, guinea pigs are not native to Guinea, nor are they closely related biologically to pigs, and the origin of the name is still unclear. They originated in the Andes of South America. Studies based on biochemistry and hybridization suggest they are domesticated animals that do not exist naturally in the wild, descendants of a closely related cavy species such as C. tschudii. They were originally domesticated as livestock for a source of meat, and are still consumed in some parts of the world. ",
+      "content_url": "https://en.wikipedia.org/wiki/Guinea_pig",
+      "date_added": "2018-08-04T10:45:29.027Z"
+    }
+  ]
+}
