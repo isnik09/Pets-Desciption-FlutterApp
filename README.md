@@ -1,18 +1,31 @@
 # Pets-App Using MVVM 
 Cross platform app using flutter and dart which reads json file and shows information accordingly. 
 
-## Running on you system
+# Run Locally
 
-Make sure you've flutter and dart setup. 
-Clone repo and run to initialize project
+Clone the project
+
+```bash
+  git clone https://github.com/isnik09/Pets-App-Flutter-MVVM-.git
+```
+
+Go to the project directory
+
+```bash
+  cd Pets-App-Flutter-MVVM
+```
+
+Install dependencies
+
 ```bash
   flutter pub get
 ```
-To run project in emulator 
+
+Start in emulator
 
 ```bash
   flutter run
-```
+  
 ## Get APK here
 https://github.com/isnik09/Pets-App-Flutter-MVVM-/raw/master/app-release.apk
 ## Screenshots
