@@ -25,9 +25,11 @@ Start in emulator
 
 ```bash
   flutter run
+```
   
 ## Get APK here
 https://github.com/isnik09/Pets-App-Flutter-MVVM-/raw/master/app-release.apk
+
 ## Screenshots
 
 ![Splash Screen](https://github.com/isnik09/Pets-App-Flutter-MVVM-/blob/master/SCREENSHOTS/Splash.png?raw=true)
